@@ -62,4 +62,34 @@
     }
   }
 
+.hk{
+    text-align: center;
+}
 
+.navbar{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 15px 0;
+    z-index: 1000;
+
+}
+
+.navbar li {
+    margin: 0 20px;
+}
+
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.navbar a:hover{
+    color: #e63946;
+    border-bottom: #e63946;
+}
