@@ -93,3 +93,11 @@
     color: #e63946;
     border-bottom: #e63946;
 }
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+  
+}
